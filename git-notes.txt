@@ -1,0 +1,22 @@
+===================
+THEORY
+===================
+
+- What is git 
+  - VCS (Version control system)
+- Why git
+  - Easier to collaborate
+  - Track version of the files and folders
+- Local vs Cloud
+  - Git - Local software     // Track files and version control
+  - Github.com, bitbucket.com, gitlab.com (Cloud)     // Collaborate
+
+
+====================
+GIT COMMANDS
+====================
+- git init     (Initialises a git repo)
+- git status   (Gives us the current status of the folder being tracked)
+- git add __filename__  (starts tracking this particular __filename__ , send this file to staging area)
+- git add . (Start tracking all the files)
+- git rm --cached __filename__      (sends a file from staging area back to untracked area)

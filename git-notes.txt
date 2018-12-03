@@ -22,11 +22,11 @@ GIT COMMANDS
 - git rm --cached __filename__      (sends a file from staging area back to untracked area)
 - git commit -m "message"            (Commit your files and folders from staging area to committed area)
 - git log                  (prints all the commits)
-
+- git remote add origin git@github.com:prank7/learn-git.git
 
 
 
 ==================
 COMMIT
 ==================
-- every commit has a hash, message, author, timestamp
+- every commit has a hash/id, message, author, timestamp

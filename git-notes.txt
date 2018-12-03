@@ -20,3 +20,13 @@ GIT COMMANDS
 - git add __filename__  (starts tracking this particular __filename__ , send this file to staging area)
 - git add . (Start tracking all the files)
 - git rm --cached __filename__      (sends a file from staging area back to untracked area)
+- git commit -m "message"            (Commit your files and folders from staging area to committed area)
+- git log                  (prints all the commits)
+
+
+
+
+==================
+COMMIT
+==================
+- every commit has a hash, message, author, timestamp
